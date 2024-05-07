@@ -19,7 +19,7 @@
 1. Clone the repo and install basic requirements
 ```
 git clone https://github.com/Jcodei6/Bluetooth-jam.git
-cd Bluestrike
+cd Bluetooth-jam
 pip3 install -r requirements.txt
 ```
 2. Install necessary packages
