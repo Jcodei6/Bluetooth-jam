@@ -1,4 +1,4 @@
-# Bluestrike
+# Blu tooth jammer
 
 - Opensource python tool for jamming bluetooth signals (in the making)
 - Successful in jamming bluetooth speakers
@@ -7,7 +7,7 @@
 
 ## Tool Preview
 
-![Imgur](https://i.imgur.com/qQloXdx.png)
+![Imgur](https://imgur.com/a/V9wG93V)
 
 
 ## ⚠️ Note
@@ -36,15 +36,6 @@ To run this project, you will need to add the following environment variables to
 ```
 keep the .env file under `/utils`.
 
-## Table of Contents
-1. Working of Bluetooth
-2. Security Risks
-3. Security Tips for Using Bluetooth
-4. Applications Used
-5. Malicious Attack
-6. Attack Detection
-7. Prevention Method
-8. How AirPods Block Requests from Devices
 
 ### Working of Bluetooth
 
@@ -156,15 +147,6 @@ print(mac_with_oui)
 
 #### Your Question?
 - Answer
-
-
-### Feedback
-
-If you have any feedback or suggestions, please reach out to me via email at stealthiq[at]protonmail[.]com or [Twitter](https://twitter.com/StealthIQQ).
-
-### Author
-
-- [@Stealthiq](https://www.github.com/stealthiq)
 
 ### License
 
