@@ -22,9 +22,9 @@ git clone https://github.com/Jcodei6/Bluetooth-jam.git
 cd Bluetooth-jam
 pip3 install -r requirements.txt
 ```
-2. Install necessary packages
+2. Install necessary packages (ubuntu/linux)
 ```
-paru -Sy --noconfirm --needed bluez bluez-utils
+sudo apt install bluez
 ```
 
 ## Environment Variables
