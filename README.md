@@ -1,4 +1,4 @@
-# Blu tooth jammer
+# Bluetooth-jam
 
 - Opensource python tool for jamming bluetooth signals (in the making)
 - Successful in jamming bluetooth speakers
