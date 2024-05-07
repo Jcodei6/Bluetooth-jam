@@ -18,7 +18,7 @@
 
 1. Clone the repo and install basic requirements
 ```
-git clone https://github.com/StealthIQ/Bluestrike.git
+git clone https://github.com/Jcodei6/Bluetooth-jam.git
 cd Bluestrike
 pip3 install -r requirements.txt
 ```
